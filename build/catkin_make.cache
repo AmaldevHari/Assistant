@@ -1,0 +1,2 @@
+audio_common/audio_capture:audio_common/audio_common:audio_common/audio_common_msgs:audio_common/audio_play:audio_common/sound_play:ros_aiml
+-DCATKIN_DEVEL_PREFIX=/home/amaldev/Assistant/devel -DCMAKE_INSTALL_PREFIX=/home/amaldev/Assistant/install -G Unix Makefiles

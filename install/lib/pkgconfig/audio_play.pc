@@ -1,0 +1,8 @@
+prefix=/home/amaldev/Assistant/install
+
+Name: audio_play
+Description: Description of audio_play
+Version: 0.3.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

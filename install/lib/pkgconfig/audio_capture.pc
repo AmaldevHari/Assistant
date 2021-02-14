@@ -1,0 +1,8 @@
+prefix=/home/amaldev/Assistant/install
+
+Name: audio_capture
+Description: Description of audio_capture
+Version: 0.3.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
